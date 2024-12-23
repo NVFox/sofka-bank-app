@@ -1,2 +1,3 @@
 # sofka-bank-app
-Proyecto de aplicación bancaria para SOFKAU - Descripción inicial
+
+Proyecto de aplicación bancaria para SOFKAU - Descripción cambiada desde el local
